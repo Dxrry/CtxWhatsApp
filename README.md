@@ -21,9 +21,9 @@ https://github.com/Dxrry/CtxWhatsApp
 2. Jalankan program
 ```bash
 λ ~/CtxWhatsApp/ yarn main
-
-Lalu chat BOT apa saja sampai muncul log 'Express app listening on port 1337'
 ```
+
+
 
 # Usage
 ### Send Messages
